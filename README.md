@@ -2,34 +2,34 @@
 
     Projeto full stack completo! Java Spring Boot no back end e Ionic no front end
 
-### LINK DO CURSO:
+## Link do curso:
     https://www.udemy.com/course/spring-boot-ionic/learn/lecture/8902524#overview
 
-## VISÃO FUNCIONAL:
+## Visão funcional:
     Neste projeto você vai aprender a construir login, cadastro de usuário, fluxo completo de navegação de carrinho de compras, fluxo de fechamento de pedido, tela de perfil de usuário com envio de foto tanto pela câmera quanto pela galeria.
 
-## VISÃO TÉCNICA - BACK END:
+## Visão técnica - back end:
     Para isto nós vamos criar uma API Rest usando Java com Spring Boot e banco de dados MySQL. Vamos usar JPA com Hibernate para mapeamento objeto-relacional, envio de email com SMTP da Google, armazenamento de imagens com storage S3 da Amazon, autenticação e autorização com tokens JWT, e implantação na nuvem usando a plataforma Heroku. Vamos aprender também validação de dados, tratamento de exceções, uso adequado do protocolo HTTP no padrão REST, segurança, CORS, e muito mais.
 
-## VISÃO TÉCNICA - FRONT END:
+## Visão técnica - front end:
     Além do back end, também vamos desenvolver o front end utilizando Ionic. Vamos explorar a arquitetura MVC do Angular, os componentes visuais do Ionic, Angular reactive forms, navegação, interceptors, local storage, tratamento de erros, acesso à câmera e galeria, paginação com infinite scroll, loading e refresher. Vamos cobrir também todo processo de build para Android e publicação do app na Play Store.
 
     Versão: Ionic 3 e Angular 5
 
-## METODOLOGIA:
+## Metodologia:
     Tudo que fizermos será explicado em detalhes, com materiais de apoio para te ajudar a acompanhar e revisar tudo que foi feito em cada aula. Além disso, todo código desenvolvido no curso está no Github para sua referência, e cada commit do Github corresponde a uma aula. Com tudo isso, você terá um mapeamento preciso, e de alta qualidade, do progresso feito em cada aula do curso, o que te proporcionará a melhor experiência de aprendizado, além de ter uma referência de fácil acesso para seus projetos futuros.
 
-## BÔNUS:
+## Bônus:
     O curso ainda possui vários outros conteúdos. Possui um outro projeto menor, mostrando a teoria e prática de como usar o banco de dados MongoDB em um projeto Spring Boot com Java. Também possui uma seção dedicada a ferramentas de apoio ao desenvolvimento com Spring Boot. 
 
-## ESTE CURSO É DESTINADO A QUEM DESEJA:
+## Este curso é destinado a quem deseja:
 
 - Aprender de verdade a construir um back end com domínio complexo usando Java com Spring Boot
 - Aprender a criar a publicar um MVP de baixo custo usando Ionic
 - Aplicar na prática os conteúdos da faculdade em um projeto comercial
 - Incrementar seu portfolio e seu currículo
 
-### O que você aprenderá
+## O que você aprenderá:
 - Implementar modelos de domínio
 - Mapeamento objeto-relacional com JPA
 - Acesso a dados com Spring Data
@@ -51,17 +51,14 @@
 - Conhecimento básico de banco de dados relacionais (o curso apresenta um breve nivelamento sobre este tema)
 - Para implementar na prática todo o capítulo sobre a implantação no Heroku, será necessário ter um cartão de crédito internacional. Caso o aluno não tenha o cartão ainda, poderá ainda assistir as aulas para conhecimento, e prosseguir no curso sem problemas.
 
-
 ## Para quem é este curso:
 - Estudantes de cursos de computação e desenvolvimento de sistemas
 - Profissionais que desejam adquirir conhecimento nas técnicas e ferramentas propostas no curso
 - Entusiastas e empreendedores que desejam criar aplicativos e sistemas
 
-
-## INSTRUTOR
+## Instrutor
 
     Nelio Alves
-
 
 ## Como usar?
 ```bash
