@@ -1,0 +1,1 @@
+cd backend && gnome-terminal -x sh -c "mvn spring-boot:run; bash" && cd .. && cd mobile && gnome-terminal -x sh -c "npm install && npm start; bash"

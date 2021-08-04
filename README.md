@@ -2,8 +2,23 @@
 
     Projeto full stack completo! Java Spring Boot no back end e Ionic no front end
 
+> Meu foco nesse primeiro momento é só estudar o ionic, então o projeto backend eu peguei pronto do curso
+
 ## Link do curso:
     https://www.udemy.com/course/spring-boot-ionic/learn/lecture/8902524#overview
+
+## Vai rodar pela primeira fez? te ajudo
+
+```bash
+# Clone o repositório
+$ git clone https://github.com/AugustoSavi/SpringBootIonic.git
+
+# Entre no repositório
+$ cd SpringBootIonic
+
+# Execute a aplicação
+$  sh init.sh
+```
 
 ## Visão funcional:
     Neste projeto você vai aprender a construir login, cadastro de usuário, fluxo completo de navegação de carrinho de compras, fluxo de fechamento de pedido, tela de perfil de usuário com envio de foto tanto pela câmera quanto pela galeria.
